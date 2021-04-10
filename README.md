@@ -10,6 +10,11 @@ A conference call implementation using WebRTC, Socket.io and Node.js.
 - Expand participants' stream
 - Screen Recording
 - Video Recording
+# Tech Stack:
+- React
+- WebRTC
+- Socket.io
+- Networking Portfolio
 ## Screens
 # Home screen
 ![Home Screen](https://github.com/KalpTalwadia/VideoConference/blob/main/screenshot/Screenshot%202021-04-10%20at%2011.15.45%20PM.png)
