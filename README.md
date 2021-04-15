@@ -25,4 +25,4 @@ A conference call implementation using WebRTC, Socket.io and Node.js.
 - `cd src`
 - `node app.js`
 # Demo
-You can test at [Live Link](https://damp-retreat-74129.herokuapp.com/?room=home_515155367).
+You can test at [Live Link](https://damp-retreat-74129.herokuapp.com).
